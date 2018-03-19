@@ -1,3 +1,13 @@
 # hello-world
 First Repo
-I am a fan of Eminem.
+Here's the Hello world program in c++:
+
+#include <iostream>
+  
+using namespace std;
+
+int main()
+{
+	cout<<"Hello World!"<<endl;
+	return 0;
+}
